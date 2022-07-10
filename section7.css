@@ -1,0 +1,10 @@
+.star {
+    max-width: 1440px;
+    margin: 0 auto;
+    height: 600px;
+    background-image: url(./img/star.png);
+}
+
+.star .sanset_title {
+    margin-right: 119px;
+}

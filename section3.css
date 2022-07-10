@@ -1,0 +1,31 @@
+.sanset {
+    max-width: 1440px;
+    margin: 0 auto;
+    height: 600px;
+    background: url(./img/SANSET.png) no-repeat ;
+}
+
+.sanset_title_wrapper {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    height: 93%;
+}
+
+.sanset_title {
+    width: 298px;
+}
+
+.sanset_title h1 {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #fff;
+}
+
+.sanset_title p {
+    font-size: 14px;
+    line-height: 20px;
+    line-height: 20px;
+    color: #C0C0C0;
+}

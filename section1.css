@@ -1,0 +1,50 @@
+.Photographer {
+    max-width: 1440px;
+    margin: 0 auto;
+    height: 716px;
+    background: url(./img/IMAGE_01.png) no-repeat ;
+    
+}
+
+.container {
+    max-width: 1148px;
+    height: 100%;
+    margin: 0 auto;
+   
+}
+
+.Photographer_wrapper{
+    height: 95%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.photoTitle {
+    width: 580px;
+    text-align: center;
+    color: #FFF;
+    margin-bottom: 71px;
+}
+
+.p_Photographer {
+    color: #C0C0C0; 
+    font-weight: 400;
+    font-size: 14px;    
+}
+.h1_Photographer {
+    font-weight: 400;
+    font-size: 54px;
+}
+
+.Photographer_footer {
+    display: flex;
+    justify-content: end;
+    margin-right: 40px;
+}
+
+.icon {
+    display: flex;
+    color: #FFF;
+    margin-right: 16px;
+}

@@ -1,0 +1,102 @@
+.What_we_do {
+    max-width: 1440px;
+    margin: 0 auto;
+    height: 1558px;
+    background: #000;
+}
+
+.What_we_do_h1 {
+    padding-top: 113px;
+    margin-bottom: 15px;
+    text-align: center;
+    color: #fff;
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.What_we_do_p {
+    text-align: center;
+    color: #C0C0C0;
+    font-weight: 400;
+    font-size: 23px;
+}
+
+.what_Wrapper{
+    margin-top: 42px;
+    display: flex;
+    flex-flow: row nowrap;
+
+}
+
+.photo1 {
+    margin: 16px;
+    display: flex;
+    align-items: flex-end;
+    width: 576px;
+    height: 600px;
+    background-image: url(./img/IMAGE-02.png);
+}
+
+.photo2 {
+    margin: 16px;
+    display: flex;
+    align-items: flex-end;
+    width: 576px;
+    height: 600px;
+    background-image: url(./img/IMAGE-03.png);
+}
+
+.photo3 {
+    margin: 16px;
+    display: flex;
+    align-items: flex-end;
+    width: 576px;
+    height: 600px;
+    background-image: url(./img/IMAGE-04.png);
+}
+
+.photo4 {
+    margin: 16px;
+    display: flex;
+    align-items: flex-end;
+    width: 576px;
+    height: 600px;
+    background-image: url(./img/IMAGE-05.png);
+}
+
+.photo_title {
+    margin-bottom: 44px;
+    margin-left: 30px;
+    color: #fff;
+}
+
+.photo_title h1 {
+    margin-bottom: 20px;
+}
+
+.readMore {
+    cursor: pointer;
+    margin-top: 20px;
+    width: 143px;
+    height: 42px;
+    border-radius: 14px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+}
+
+.readMore h1 {
+    margin-bottom: 0;
+    margin-left: 10px;
+    color: #000; 
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.cycle {
+    width: 32px;
+    height: 32px;
+    background-color: #000;
+    border-radius: 50%;
+    margin-left: 5px;
+}

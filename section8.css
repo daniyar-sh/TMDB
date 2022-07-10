@@ -1,0 +1,31 @@
+.need {
+    max-width: 1440px;
+    margin: 0 auto;
+    height: 414px;
+    background-color: #000;
+}
+
+.need h2 {
+    padding-top: 113px;
+    margin-bottom: 15px;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 42px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.need h3 {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    color: #C0C0C0;
+}
+
+.need_wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+header{
+    
+    height: 90px;
+    background-color: #181818;
+}
+
+.headerWrapper {
+    max-width: 1148px;
+    padding: 28px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar{
+    display: flex;
+}
+
+.navbarLink {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 35px;
+}
+
+.headerSpan {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 155px;
+    height: 42px;
+    border-radius: 14px;
+    background-color: #fff;
+    font-size: 16px;
+}

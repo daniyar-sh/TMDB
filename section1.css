@@ -48,3 +48,7 @@
     color: #FFF;
     margin-right: 16px;
 }
+
+.icon p {
+    margin-left: 6px;
+}
